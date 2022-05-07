@@ -8,7 +8,7 @@ Hi, I'm 404a10 and I'm a young programmer who likes the following things:
 - CyberSec
 - Learning new things
 - Opensource projects
-- Anything related to computers (Yes, it sounds redundant)
+- Anything related to computers
 - Lists apparently
 
 ## Languages I use
