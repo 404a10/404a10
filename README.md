@@ -12,15 +12,17 @@ Hi, I'm 404a10 and I'm a young programmer who likes the following things:
 - Lists apparently
 
 ## Languages I use
-![](https://img.shields.io/badge/Java-%20-orange)
-![](https://img.shields.io/badge/Golang-%20-blue)
-![](https://img.shields.io/badge/Python-%20-yellow)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-I started taking programming seriously when I started learning Java, I'ts my favourite language and it's the one I'm more confortable with (I'm a little bit rusty though).
 
 ## Languages I'm currently learning
-![](https://img.shields.io/badge/C-%20-red)
-![](https://img.shields.io/badge/JavaScript-%20-f0db4f)
-![](https://img.shields.io/badge/BASH-%20-success)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/BASH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 I'd also like learning ruby in the future.
+
+---
+![](https://img.shields.io/badge/I_use_Arch_Linux_BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
