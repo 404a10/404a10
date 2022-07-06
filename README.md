@@ -22,7 +22,7 @@ Hi, I'm 404a10 and I'm a young programmer who likes the following things:
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/BASH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-I'd also like learning ruby in the future.
+I'd also like learning Rust in the future.
 
 ---
 ![](https://img.shields.io/badge/I_use_Arch_Linux_BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) 
